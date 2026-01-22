@@ -1,5 +1,5 @@
 
-# Hands-On Projects 💻📱
+# Hands-On Projects 
 
 This repository documents the hands-on projects I’m doing to build practical IT support skills, including hardware exploration, troubleshooting, and assembly/disassembly exercises.
 
