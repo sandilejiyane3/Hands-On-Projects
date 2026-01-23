@@ -1,6 +1,9 @@
 
 # Hands-On Projects 
 
+Hi, I'm Sandile B Jiyane.  
+I'm transitioning into IT with a focus on IT Support, Networking, and Security.
+
 This repository documents the hands-on projects I’m doing to build practical IT support skills, including hardware exploration, troubleshooting, and assembly/disassembly exercises.
 
 ---
